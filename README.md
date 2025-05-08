@@ -3,7 +3,7 @@
 Este projeto é um clone simples do jogo Yu-Gi-Oh!, onde você pode visualizar cartas de personagens com suas respectivas informações e atributos. O layout é responsivo e utiliza HTML, CSS e JavaScript.
 
 ## Estrutura de Pastas
-
+```
 Clone-Yu-Gi-Oh/ │
                 ├── src/
                 │├── css/
@@ -22,7 +22,7 @@ Clone-Yu-Gi-Oh/ │
                 │ └── js/
                 │   └── index.js
                 └── index.html
-
+```
 
 ## Descrição dos Arquivos
 
